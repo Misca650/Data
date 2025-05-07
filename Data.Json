@@ -1,0 +1,10 @@
+{
+  "players": [
+    {
+      "id": 12345,
+      "name": "PlayerOne",
+      "level": 5,
+      "items": ["sword", "shield"]
+    }
+  ]
+}
