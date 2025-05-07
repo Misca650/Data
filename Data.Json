@@ -1,1 +1,21 @@
-{"players":[{"id":100202932,"level":5,"name":"Test","items":["sword","shield"]}]}
+{
+  "players": [
+    {
+      "id": 100202932,
+      "level": 5,
+      "name": "Test",
+      "items": [
+        "sword",
+        "shield"
+      ]
+    },
+    {
+      "id": 100202933,
+      "level": 2,
+      "name": "NewPlayer",
+      "items": [
+        "axe"
+      ]
+    }
+  ]
+}
